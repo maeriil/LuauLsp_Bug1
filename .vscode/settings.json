@@ -1,0 +1,8 @@
+{
+    "luau-lsp.completion.imports.requireStyle": "alwaysRelative",
+    "luau-lsp.require.directoryAliases": {
+        "@Types": "./src/Types",
+    },
+    "luau-lsp.sourcemap.autogenerate": true,
+    "luau-lsp.sourcemap.rojoProjectFile": "source.project.json"
+}

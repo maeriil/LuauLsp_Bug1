@@ -1,0 +1,20 @@
+{
+  "name": "LuauLsp_Bug1",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Types": {
+        "$path": "src/Types"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/Client"
+        }
+      }
+    }
+  }
+}
