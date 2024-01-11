@@ -4,5 +4,5 @@
         "@Types": "./src/Types",
     },
     "luau-lsp.sourcemap.autogenerate": true,
-    "luau-lsp.sourcemap.rojoProjectFile": "source.project.json"
+    "luau-lsp.sourcemap.rojoProjectFile": "default.project.json",
 }

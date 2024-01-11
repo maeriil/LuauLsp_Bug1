@@ -5,14 +5,14 @@
 
     "ReplicatedStorage": {
       "Types": {
-        "$path": "out/Types"
+        "$path": "src/Types"
       }
     },
 
     "StarterPlayer": {
       "StarterPlayerScripts": {
         "Client": {
-          "$path": "out/Client"
+          "$path": "src/Client"
         }
       }
     }
